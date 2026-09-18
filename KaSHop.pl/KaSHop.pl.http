@@ -1,0 +1,6 @@
+@KaSHop.pl_HostAddress = http://localhost:5230
+
+GET {{KaSHop.pl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

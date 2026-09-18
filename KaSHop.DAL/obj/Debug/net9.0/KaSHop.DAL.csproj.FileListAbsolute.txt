@@ -1,0 +1,14 @@
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\bin\Debug\net9.0\KaSHop.DAL.deps.json
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\bin\Debug\net9.0\KaSHop.DAL.runtimeconfig.json
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\bin\Debug\net9.0\KaSHop.DAL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\bin\Debug\net9.0\KaSHop.DAL.pdb
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\refint\KaSHop.DAL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.pdb
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.genruntimeconfig.cache
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\ref\KaSHop.DAL.dll

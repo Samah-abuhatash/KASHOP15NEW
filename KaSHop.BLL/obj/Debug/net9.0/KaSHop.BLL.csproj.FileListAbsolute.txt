@@ -1,0 +1,15 @@
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\bin\Debug\net9.0\KaSHop.BLL.deps.json
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\bin\Debug\net9.0\KaSHop.BLL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\bin\Debug\net9.0\KaSHop.BLL.pdb
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\bin\Debug\net9.0\KaSHop.DAL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\bin\Debug\net9.0\KaSHop.DAL.pdb
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.csproj.Up2Date
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\refint\KaSHop.BLL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.pdb
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\ref\KaSHop.BLL.dll
