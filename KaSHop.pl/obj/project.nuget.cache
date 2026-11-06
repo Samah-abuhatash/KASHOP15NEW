@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "XHE4W6sCtCA=",
+  "dgSpecHash": "IbHWATluD94=",
   "success": true,
   "projectFilePath": "C:\\Users\\OMEN\\OneDrive\\Desktop\\backend15\\api\\KaSHop\\KaSHop.pl\\KaSHop.pl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OMEN\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\azure.identity\\1.12.1\\azure.identity.1.12.1.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\mapster\\10.0.13\\mapster.10.0.13.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\mapster.core\\10.0.13\\mapster.core.10.0.13.nupkg.sha512",
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.14\\microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.build.framework\\17.8.43\\microsoft.build.framework.17.8.43.nupkg.sha512",

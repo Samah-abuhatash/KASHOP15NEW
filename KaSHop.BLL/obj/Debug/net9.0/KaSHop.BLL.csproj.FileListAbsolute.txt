@@ -13,3 +13,4 @@ C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\
 C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\refint\KaSHop.BLL.dll
 C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.pdb
 C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\ref\KaSHop.BLL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.BLL\obj\Debug\net9.0\KaSHop.BLL.sourcelink.json

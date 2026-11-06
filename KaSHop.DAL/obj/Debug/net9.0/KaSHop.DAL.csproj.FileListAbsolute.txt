@@ -12,3 +12,4 @@ C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\
 C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.pdb
 C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.genruntimeconfig.cache
 C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\ref\KaSHop.DAL.dll
+C:\Users\OMEN\OneDrive\Desktop\backend15\api\KaSHop\KaSHop.DAL\obj\Debug\net9.0\KaSHop.DAL.sourcelink.json

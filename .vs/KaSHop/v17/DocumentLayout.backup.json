@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\OMEN\\OneDrive\\Desktop\\backend15\\api\\KaSHop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OMEN\\OneDrive\\Desktop\\backend15\\api\\KaSHop\\KaSHop.DAL\\Migrations\\20260918123231_Brandss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KaSHop.DAL\\Migrations\\20260918123231_Brandss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCF7A5BC-93FA-4F6C-A969-5D71E33D5765}|KaSHop.BLL\\KaSHop.BLL.csproj|c:\\users\\omen\\onedrive\\desktop\\backend15\\api\\kashop\\kashop.bll\\settings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF7A5BC-93FA-4F6C-A969-5D71E33D5765}|KaSHop.BLL\\KaSHop.BLL.csproj|solutionrelative:kashop.bll\\settings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260918123231_Brandss.cs",
-              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Desktop\\backend15\\api\\KaSHop\\KaSHop.DAL\\Migrations\\20260918123231_Brandss.cs",
-              "RelativeDocumentMoniker": "KaSHop.DAL\\Migrations\\20260918123231_Brandss.cs",
-              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Desktop\\backend15\\api\\KaSHop\\KaSHop.DAL\\Migrations\\20260918123231_Brandss.cs",
-              "RelativeToolTip": "KaSHop.DAL\\Migrations\\20260918123231_Brandss.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T12:32:32.365Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Desktop\\backend15\\api\\KaSHop\\KaSHop.BLL\\Settings\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "KaSHop.BLL\\Settings\\MapsterConfig.cs",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Desktop\\backend15\\api\\KaSHop\\KaSHop.BLL\\Settings\\MapsterConfig.cs*",
+              "RelativeToolTip": "KaSHop.BLL\\Settings\\MapsterConfig.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:28:20.009Z",
+              "EditorCaption": ""
             }
           ]
         }

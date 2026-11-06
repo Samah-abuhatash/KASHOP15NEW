@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KaSHop.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c26392652c0a28db7df90878ef7320bf38974e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+165e6dde936888a5f6152b0dd97af310faab1d45")]
 [assembly: System.Reflection.AssemblyProductAttribute("KaSHop.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KaSHop.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

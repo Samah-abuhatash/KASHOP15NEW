@@ -1,6 +1,8 @@
-﻿using KaSHop.DAL.models;
-using KaSHop.DAL.Repositories;
+﻿using KaSHop.BLL;
+using KaSHop.DAL.DTO.Requet;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace KaSHop.pl.Controllers
 {
@@ -8,33 +10,62 @@ namespace KaSHop.pl.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        GenericRepository<Category> repository = new GenericRepository<Category>();
+        private readonly ICategoryService _service;
 
-        [HttpGet("")]
-        public IActionResult Index()
+        public CategoriesController(ICategoryService service)
         {
-            var categories = repository.GetAll();
-            return Ok(categories);
+            _service = service;
         }
 
-        [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        [HttpGet("")]
+        public async Task<IActionResult> Index(
+            CancellationToken cancellationToken)
         {
-            var category = repository.GetById(id);
+            var categories = await _service.GetAllAsync(cancellationToken);
 
-            if (category == null)
-            {
-                return NotFound();
-            }
+            return Ok(categories);
+        }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(
+            int id,
+            CancellationToken cancellationToken)
+        {
+            var result = await _service.GetByIdAsync(id, cancellationToken);
 
-            return Ok(category);
+            return result is not null ? Ok(result) : BadRequest();
         }
 
         [HttpPost("")]
-        public IActionResult Create(Category category)
+        public async Task<IActionResult> Create(
+      CategoryRequest request,
+      CancellationToken cancellationToken)
         {
-            repository.Create(category);
-            return Ok();
+            var result = await _service.CreateAsync(request, cancellationToken);
+
+            return result ? Ok() : BadRequest();
+        }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(
+    int id,
+    CancellationToken cancellationToken)
+        {
+            var result = await _service.DeleteAsync(id, cancellationToken);
+
+            return result ? Ok() : BadRequest();
+        }
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(
+    int id,
+    [FromBody] CategoryRequest request,
+    CancellationToken cancellationToken)
+        {
+            var result = await _service.UpdateAsync(
+                id,
+                request,
+                cancellationToken
+            );
+
+            return result ? Ok() : BadRequest();
         }
     }
 }

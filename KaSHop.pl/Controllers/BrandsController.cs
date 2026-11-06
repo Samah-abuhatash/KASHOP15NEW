@@ -1,6 +1,7 @@
-﻿using KaSHop.DAL.models;
-using KaSHop.DAL.Repositories;
+﻿using KaSHop.DAL.Repositories;
+using KaSHop.DAL.models;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace KaSHop.pl.Controllers
 {
@@ -8,19 +9,24 @@ namespace KaSHop.pl.Controllers
     [ApiController]
     public class BrandsController : ControllerBase
     {
-        GenericRepository<Brands> repository = new GenericRepository<Brands>();
+        private readonly IGenericRepository<Brands> repository;
+
+        public BrandsController(IGenericRepository<Brands> repository)
+        {
+            this.repository = repository;
+        }
 
         [HttpGet("")]
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var brands = repository.GetAll();
+            var brands = await repository.GetAllAsync();
             return Ok(brands);
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
-            var brand = repository.GetById(id);
+            var brand = await repository.GetByIdAsync(id);
 
             if (brand == null)
             {
@@ -31,9 +37,9 @@ namespace KaSHop.pl.Controllers
         }
 
         [HttpPost("")]
-        public IActionResult Create(Brands brand)
+        public async Task<IActionResult> Create([FromBody] Brands brand)
         {
-            repository.Create(brand);
+            await repository.CreateAsync(brand);
             return Ok();
         }
     }
